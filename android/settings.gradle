@@ -1,0 +1,3 @@
+rootProject.name = 'lejewels_1919'
+
+include ':app'
